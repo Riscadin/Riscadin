@@ -14,6 +14,11 @@
 ![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Riscadin&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Riscadin&layout=compact&theme=radical)
 
+
+![kkkkkkkkkkk](URL_do_GIF)
+
+
+
 ### Projetos Recentes
 - [🔗 Salão de Beleza](https://riscadin.github.io/TCC/)
 - [🔗 Sistema de Mercearia](https://github.com/Riscadin/Situa-odeAprendizagem-Sr.Antonio)
