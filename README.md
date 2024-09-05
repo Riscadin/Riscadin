@@ -11,8 +11,8 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📊 Minhas Estatísticas no GitHub
-![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=ricardocardozo&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardozo&layout=compact&theme=radical)
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Riscadin&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Riscadin&layout=compact&theme=radical)
 
 ### Projetos Recentes
 - [🔗 Calculadora Web](https://github.com/ricardocardozo/calculadora)
