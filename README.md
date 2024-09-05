@@ -16,7 +16,7 @@
 
 ### Projetos Recentes
 - [🔗 Salão de Beleza](https://riscadin.github.io/TCC/)
-- [🔗 Sistema de Gerenciamento Escolar](https://github.com/ricardocardozo/sistema-escolar)
+- [🔗 Sistema de Mercearia](https://github.com/Riscadin/Situa-odeAprendizagem-Sr.Antonio)
 - [🔗 Gerador de Senhas](https://github.com/ricardocardozo/gerador-senhas)
 
 ![Snake animation](https://github.com/ricardocardozo/ricardocardozo/blob/output/github-contribution-grid-snake.svg)
