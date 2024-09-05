@@ -15,7 +15,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Riscadin&layout=compact&theme=radical)
 
 
-![kkkkkkkkkkk](URL_do_GIF)
+![kkkkkkkkkkk](1_dxbvVHJkUh5HagZ7HI0nFw.gif)
 
 
 
