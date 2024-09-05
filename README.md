@@ -15,7 +15,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Riscadin&layout=compact&theme=radical)
 
 ### Projetos Recentes
-- [🔗 Calculadora Web](https://github.com/ricardocardozo/calculadora)
+- [🔗 Salão de Beleza](https://riscadin.github.io/TCC/)
 - [🔗 Sistema de Gerenciamento Escolar](https://github.com/ricardocardozo/sistema-escolar)
 - [🔗 Gerador de Senhas](https://github.com/ricardocardozo/gerador-senhas)
 
