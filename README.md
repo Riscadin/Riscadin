@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Ricardo Cardozo
 
-<!--
-**Riscadin/Riscadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Desenvolvedor Fullstack
+- 💻 Apaixonado por IoT, C#, .NET e Desenvolver sites
+- 🚀 Sempre aprendendo e construindo projetos mais amigáveis e desafiadores
 
-Here are some ideas to get you started:
+### Ferramentas e Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas no GitHub
+![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=ricardocardozo&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocardozo&layout=compact&theme=radical)
+
+### Projetos Recentes
+- [🔗 Calculadora Web](https://github.com/ricardocardozo/calculadora)
+- [🔗 Sistema de Gerenciamento Escolar](https://github.com/ricardocardozo/sistema-escolar)
+- [🔗 Gerador de Senhas](https://github.com/ricardocardozo/gerador-senhas)
+
+![Snake animation](https://github.com/ricardocardozo/ricardocardozo/blob/output/github-contribution-grid-snake.svg)
+
+### Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocardozo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ricardocardozo)
+
+> "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
