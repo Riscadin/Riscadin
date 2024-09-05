@@ -17,9 +17,9 @@
 ### Projetos Recentes
 - [🔗 Salão de Beleza](https://riscadin.github.io/TCC/)
 - [🔗 Sistema de Mercearia](https://github.com/Riscadin/Situa-odeAprendizagem-Sr.Antonio)
-- [🔗 Gerador de Senhas](https://github.com/ricardocardozo/gerador-senhas)
+- [🔗 Site Simples de Calistenia](https://riscadin.github.io/Treininho-Meu/)
 
-![Snake animation](https://github.com/ricardocardozo/ricardocardozo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/riscadin/riscadin/blob/output/github-contribution-grid-snake.svg)
 
 ### Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardocardozo)
