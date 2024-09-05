@@ -19,7 +19,6 @@
 - [🔗 Sistema de Mercearia](https://github.com/Riscadin/Situa-odeAprendizagem-Sr.Antonio)
 - [🔗 Site Simples de Calistenia](https://riscadin.github.io/Treininho-Meu/)
 
-![Snake animation](https://github.com/Riscadin/Riscadin/blob/output/github-contribution-grid-snake.svg)
 
 ### Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-moreira-2b030a29b/)
